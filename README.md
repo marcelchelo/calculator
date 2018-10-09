@@ -1,2 +1,5 @@
 # calculator
-Functional calculator GUI class project. 
+Functional 4 function calculator GUI class project. 
+
+
+Comment any buggs 
